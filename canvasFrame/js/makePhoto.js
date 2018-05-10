@@ -33,7 +33,7 @@ var UI = (function(){
 
 						//callCropper
                         cropper = new Cropper(img, {
-							viewMode: 3,-+
+							viewMode: 3,
 							dragMode: 'move',
 							autoCropArea: 1,
 							restore: false,
