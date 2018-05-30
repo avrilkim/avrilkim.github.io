@@ -3774,6 +3774,9 @@ ul{
     width:100%;
     margin:20px auto
 }
+.work11-container .screenshots img {
+    margin:0 auto;
+}
 .show{
     transform:translate3d(0, 0, 0);
     -webkit-transform:translate3d(0, 0, 0);
