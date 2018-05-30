@@ -3623,6 +3623,16 @@ ul{
     -o-background-size:cover;
     background-size:cover
 }
+.teamjoshua {
+    width:100%;
+    height:100%;
+    background:url("../img/portfolio/sigma/7.jpg") no-repeat;
+    background-position:center center;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover
+}
 .yoooo h3 {margin-top:50px;}
 .yoooo .viewsite {margin-bottom:50px;}
 @media screen and (max-width: 460px){
@@ -3635,6 +3645,10 @@ ul{
         background-size:auto 100% !important
     }
     .samsung{
+        background-attachment:scroll;
+        background-size:auto 100% !important
+    }
+    .teamjoshua{
         background-attachment:scroll;
         background-size:auto 100% !important
     }
