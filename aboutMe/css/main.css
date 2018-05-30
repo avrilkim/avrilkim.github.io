@@ -3613,6 +3613,8 @@ ul{
     -o-background-size:cover;
     background-size:cover
 }
+.yoooo h3 {margin-top:50px;}
+.yoooo .contentcontainer {margin-bottom:50px;}
 @media screen and (max-width: 460px){
     .metro{
         background-attachment:scroll;
